@@ -12,10 +12,10 @@ anyhow = "1"
 arrayref = "0.3"
 curve25519-dalek = { version = "4" }
 sha2 = "0.10"
-solana-zk-token-sdk = "1.18"
-solana-program = "1.18"
+solana-zk-token-sdk = "2.1"
+solana-program = "2.1"
 getrandom = { version = "0.1", features = ["dummy"] }
 
 
 [dev-dependencies]
-solana-sdk = "1.18"
+solana-sdk = "2.1"
